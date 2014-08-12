@@ -1,7 +1,6 @@
 ## Userscripts
 My userscripts for Chrome, Greasemonkey etc.
 
-Darek Kay  
 http://www.eclectide.com
 
 
