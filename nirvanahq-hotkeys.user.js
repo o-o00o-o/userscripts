@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            NirvanaHQ Hotkeys Popup
-// @version         1.1
+// @version         1.2
 // @description     Adds a button to NirvanaHQ, which opens a window with all available hotkeys.
 // @author          Darek Kay <darekkay@gmail.com>
 // @namespace       http://www.eclectide.com
