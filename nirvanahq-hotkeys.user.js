@@ -4,6 +4,7 @@
 // @description     Adds a button to NirvanaHQ, which opens a window with all available hotkeys.
 // @author          Darek Kay <darekkay@gmail.com>
 // @namespace       http://www.eclectide.com
+// @downloadURL     https://github.com/darekkay/userscripts/raw/master/nirvanahq-hotkeys.user.js
 // @include         https://app.nirvanahq.com/
 // @require         https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require         https://gist.github.com/raw/2625891/waitForKeyElements.js
