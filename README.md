@@ -1,0 +1,4 @@
+userscripts
+===========
+
+Browser enhancement scripts
