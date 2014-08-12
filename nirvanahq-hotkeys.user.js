@@ -5,7 +5,6 @@
 // @author          Darek Kay <darekkay@gmail.com>
 // @namespace       http://www.eclectide.com
 // @downloadURL     https://github.com/darekkay/userscripts/raw/master/nirvanahq-hotkeys.user.js
-// @updateURL       https://github.com/darekkay/userscripts/raw/master/nirvanahq-hotkeys.user.js
 // @include         https://app.nirvanahq.com/
 // @require         https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require         https://gist.github.com/raw/2625891/waitForKeyElements.js
