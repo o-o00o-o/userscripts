@@ -5,6 +5,7 @@
 // @author          Darek Kay <darekkay@gmail.com>
 // @namespace       http://www.eclectide.com
 // @downloadURL     https://github.com/darekkay/userscripts/raw/master/test.user.js
+// @updateURL       https://github.com/darekkay/userscripts/raw/master/test.user.js
 // @include         https://github.com
 // ==/UserScript==
 
