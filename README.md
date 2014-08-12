@@ -1,4 +1,4 @@
-userscripts
+Userscripts
 ===========
 
-Browser enhancement scripts
+My userscripts for Chrome, Greasemonkey etc.
