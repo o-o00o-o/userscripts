@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name            NirvanaHQ Hotkeys Popup
-// @version         1.2
+// @version         1.3
 // @description     Adds a button to NirvanaHQ, which opens a window with all available hotkeys.
 // @author          Darek Kay <darekkay@gmail.com>
 // @namespace       http://www.eclectide.com
 // @downloadURL     https://github.com/darekkay/userscripts/raw/master/nirvanahq-hotkeys.user.js
 // @include         https://app.nirvanahq.com/
+// @grant           GM_addStyle
 // @require         https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require         https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @require         http://www.eclectide.com/service/tinybox2/packed.js
