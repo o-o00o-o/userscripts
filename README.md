@@ -1,5 +1,5 @@
 ## Userscripts
-My userscripts for Chrome, Greasemonkey etc.
+When using [**Tempermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (Chrome) or [**Greasemonkey**](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) (Firefox), just click "Install". To install a script in **Chrome** without Tempermonkey, go to `Settings > Extensions` and drop the `*.user.js` file into that browser tab.
 
 ### Todoist Theme
 
