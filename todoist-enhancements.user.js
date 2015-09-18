@@ -22,6 +22,5 @@ GM_addStyle(" \
 waitForClass("t_date", removeDate);
 
 function removeDate(node) {
-  console.log ('New node', node);
   $(node).click();
 }
