@@ -10,7 +10,7 @@ When using [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermo
 
 Brings back square checkboxes, former priority colors and turns off the date parser.
 
-* [Install](https://github.com/darekkay/userscripts/raw/master/todoist-enhancements.user.js)
+* [**Install**](https://github.com/darekkay/userscripts/raw/master/todoist-enhancements.user.js)
 
 ![Todoist Theme](screenshots/todoist-enhancements.png)
 
@@ -18,4 +18,4 @@ Brings back square checkboxes, former priority colors and turns off the date par
 
 Adds a button to NirvanaHQ, which opens a window with all available hotkeys and tags.
 
-* [Install](https://github.com/darekkay/userscripts/raw/master/nirvanahq-hotkeys.user.js)
+* [**Install**](https://github.com/darekkay/userscripts/raw/master/nirvanahq-hotkeys.user.js)
