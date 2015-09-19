@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name            Todoist Enhancements
-// @version         1.2
+// @version         1.3
 // @description     Brings back square checkboxes, former priority colors and turns off the date parser
 // @author          Darek Kay <darekkay@gmail.com>
 // @namespace       http://www.eclectide.com
-// @downloadURL     https://github.com/darekkay/userscripts/raw/master/todoist-enhancementsuser.js
+// @downloadURL     https://github.com/darekkay/userscripts/raw/master/todoist-enhancements.js
 // @include         http*://*todoist.com/app*
 // @grant           GM_addStyle
 // @require         https://raw.githubusercontent.com/darekkay/userscripts/master/utils/waitForClass.js
